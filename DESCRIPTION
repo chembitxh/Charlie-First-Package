@@ -1,0 +1,18 @@
+Package: CharlieFirstPackage
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Charlie", "Farrell",
+      email = "kaf438@nau.edu",
+      role = c("aut", "cre")
+    )
+  )
+Description: Satisfies Assignment 9 for STA 445.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5)
+RoxygenNote: 7.3.3
